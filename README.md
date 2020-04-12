@@ -1,6 +1,6 @@
 # Sankey Diagrams
 
-Rendered at: https://kierandriscoll.github.io/js-sankeys/
+Rendered at: https://kierandriscoll.github.io/js-network/
 
 This uses an organisations heirarchy to demonstrate a D3 network diagram. Clicking on a 'node' toggles a tooltip which shows additioanl information about the node.
 
