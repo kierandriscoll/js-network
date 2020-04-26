@@ -1,4 +1,4 @@
-# Sankey Diagrams
+# Network Diagrams
 
 Rendered at: https://kierandriscoll.github.io/js-network/
 
